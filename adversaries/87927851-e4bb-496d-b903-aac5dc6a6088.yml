@@ -1,0 +1,16 @@
+adversary_id: 87927851-e4bb-496d-b903-aac5dc6a6088
+name: Revil-Discovery
+description: "Collections of d\xE9tection for Revil Attack"
+atomic_ordering:
+- feaced8f-f43f-452a-9500-a5219488abb8
+- 5c4dd985-89e3-4590-9b57-71fed66ff4e2
+- 2dece965-37a0-4f70-a391-0f30e3331aba
+- 8c06ebf8-bacf-486b-bd77-21ba8c5a5777
+- 7c42a30c-c8c7-44c5-80a8-862d364ac1e4
+- f92a238fc446f89dc01f73b6c30264c3
+- e8017c46-acb8-400c-a4b5-b3362b5b5baa
+- 14a21534-350f-4d83-9dd7-3c56b93a0c17
+- 9a30740d-3aa8-4c23-8efa-d51215e8a5b9
+- 5dc841fd-28ad-40e2-b10e-fb007fe09e81
+objective: 495a9828-cab1-44dd-a0ca-66e58177d8cc
+tags: []
